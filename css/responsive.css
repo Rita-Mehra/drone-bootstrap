@@ -1,0 +1,537 @@
+@media screen and (max-width: 1280px) {
+    .carousel-control .glyphicon-chevron-right {
+        right: -20px !important;
+    }
+
+    .carousel-control .glyphicon-chevron-left {
+        left: -20px !important;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .navbar-nav>li>a {
+        padding: 10px 10px !important;
+    }
+
+    .header::before {
+        top: -15px;
+        left: -100px;
+    }
+
+    .head-text h1 {
+        font-size: 36px;
+    }
+
+    .head-box {
+        padding-top: 125px;
+    }
+
+    .drone-grid {
+        padding: 35px 25px;
+        margin-top: 20px;
+    }
+
+    .heading {
+        padding-top: 30px;
+    }
+
+    .offer {
+        margin-top: 40px;
+    }
+
+    .shipping {
+        margin-top: 20px;
+        margin-bottom: 35px;
+    }
+
+    .navbar-nav .nav-btn {
+        margin: 0;
+        padding: 0;
+        display: block;
+
+    }
+
+    .carousel-control .glyphicon-chevron-right {
+        right: -15px !important;
+    }
+
+    .carousel-control .glyphicon-chevron-left {
+        left: -15px !important;
+    }
+}
+
+@media screen and (max-width:991px) {
+
+    /*
+    .navbar-toggle {
+    display: block !important;
+        position: absolute !important;
+    right: 0;
+    background-color: #ffffff !important;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+    .navbar-toggle .icon-bar {
+    width: 33px;
+    border: 1px solid #000000;
+}.navbar-nav>li {
+    float: none;
+    display: inline;
+}
+    */
+    .foot-btn,
+    input.foot-form {
+        width: 100% !important;
+    }
+
+    .navbar-nav .nav-btn {
+        font-size: 13px;
+        width: 90px;
+
+    }
+
+    .head-text {
+        text-align: center;
+    }
+
+    .head-box {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .drone {
+        margin-top: 50px;
+    }
+
+    .heading {
+        width: 85%;
+    }
+
+    .drone-grid {
+        padding: 25px 15px;
+    }
+
+    .video-popup h3 {
+        font-size: 25px;
+        bottom: 25%;
+    }
+
+    button#btn2 {
+        left: 9%;
+    }
+
+    button#btn4 {
+        right: 9%;
+    }
+
+    button#btn1 {
+        left: 0%;
+    }
+
+    button#btn5 {
+        right: 0%;
+    }
+
+    .offer h3 {
+        font-size: 21px;
+        padding: 10px 0px;
+    }
+
+    .opinion-box:before {
+
+        z-index: 0;
+    }
+
+    .bg-img {
+        padding: 8% 8% 8%;
+    }
+
+    .opinion-box:after {
+        right: -33px;
+        top: -80px;
+        width: 350px;
+    }
+
+    .cust-opin {
+        padding-top: 45px;
+        padding-bottom: 40px;
+    }
+
+    .heading h2 {
+        font-size: 30px;
+    }
+
+    .footer {
+        padding-top: 0px;
+        background: linear-gradient(to left, #8c4ccb, #d25ba4);
+        background-size: cover;
+    }
+
+    .foot-link {
+        padding-top: 20px;
+    }
+
+    .foot-link h3 {
+        font-size: 16px;
+    }
+
+    .header::before {
+        left: -185px;
+    }
+
+    .navbar-brand>img {
+        width: 75%;
+    }
+
+    .footer-nav ul li {
+        padding-right: 15px;
+    }
+
+    .navbar-nav>li>a {
+        padding: 8x !important;
+        font-size: 13px;
+
+    }
+}
+
+@media screen and (max-width:767px) {
+
+    .navbar-toggle .icon-bar {
+        width: 30px;
+        border: 2px solid #000000;
+    }
+
+    .navbar-toggle {
+        background-color: #ffffff !important;
+    }
+
+    .navbar-collapse {
+        margin-left: -15px;
+        margin-right: -15px;
+
+    }
+
+    div#drone-toggle {
+        background-color: rgba(255, 255, 255, 0.95);
+        box-shadow: 0px 0px 12px #000000;
+        position: absolute;
+        left: 0;
+        right: 0;
+        z-index: 999;
+        top: 80px;
+    }
+
+    ul.nav.navbar-nav.pull-right {
+        float: none !important;
+    }
+
+    .box {
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        position: relative;
+        margin: auto;
+    }
+
+    .opinion-box:after {
+        right: -95px;
+        top: 0;
+    }
+
+    .carousel-control .glyphicon-chevron-right,
+    .carousel-control .icon-next {
+        width: 18px;
+        background-color: #000000;
+        height: 26px;
+        right: 0px !important;
+    }
+
+    .carousel-control .glyphicon-chevron-left,
+    .carousel-control .icon-next {
+        width: 18px;
+        background-color: #000000;
+        height: 26px;
+        left: 0px !important;
+    }
+
+    .opinion-box:before {
+        left: -95px;
+    }
+
+    .slid-text {
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    .drone-grid {
+        min-height: 300px;
+    }
+
+    .navbar {
+        padding: 15px 0px 15px;
+    }
+
+    .navbar-collapse.in {}
+
+    .offer {
+        text-align: center;
+        padding: 15px 0px;
+    }
+
+    .flots {
+        float: none;
+    }
+
+    button#btn2 {
+        left: 2%;
+    }
+
+    button#btn4 {
+        right: 2%;
+    }
+
+    .shipping h3 {
+        font-size: 30px;
+    }
+
+    .foot-link {
+        padding-top: 10px;
+        min-height: 205px !important;
+    }
+
+    .footer-nav ul {
+        float: none !important;
+        text-align: center;
+        padding: 8px 0px;
+    }
+
+    .footer-nav {
+        margin-top: 5px;
+    }
+
+    .footer-nav ul li {
+        padding: 0px 20px;
+    }
+
+    .navbar-nav>li>a {
+        font-size: 16px;
+        text-align: center !important;
+        color: #000000 !important;
+
+    }
+
+    .nav>li>a:hover,
+    .nav>li>a:focus {
+        border-radius: 0px;
+        color: #3935c0 !important;
+    }
+
+    .navbar-nav .nav-btn {
+        display: block;
+        width: 250px;
+        font-size: 16px;
+        margin: auto;
+        border-color: #000000;
+        color: #000000;
+    }
+
+}
+
+@media screen and (max-width:640px) {
+    .head-box {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .heading {
+        padding-top: 20px;
+    }
+
+    .heading p {
+        font-size: 14px;
+    }
+
+    button#btn2 {
+        left: 0%;
+    }
+
+    button#btn4 {
+        right: 0%;
+    }
+
+    .video-popup h3 {
+        font-size: 16px;
+    }
+
+    .heading h2 {
+        font-size: 26px;
+    }
+
+    .bg-img {
+        padding: 4% 7% 4%;
+    }
+
+    .slid-text p {
+        font-size: 14px;
+    }
+
+    .owl-carousel {
+        padding: 20px 0px;
+        margin-top: 30px;
+    }
+
+    .shipping h3 {
+        font-size: 28px;
+    }
+
+    .drone-grid h3 {
+        font-size: 18px;
+    }
+
+    .offer {
+        margin-top: 30px;
+    }
+
+    .head-btn {
+        border: 1px solid #ffffff;
+    }
+}
+
+@media screen and (max-width:567px) {
+
+    .heading {
+        width: 100%;
+    }
+
+    .head-text p {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .heading {
+        padding-top: 10px;
+    }
+
+    .product-drone {
+        margin-top: 20px;
+        padding: 20px 0px;
+    }
+
+    .prod-btn,
+    button#btn3 {
+        position: static;
+        margin: 5px 5px;
+        height: 40px;
+        width: 45%;
+    }
+
+    .offer {
+        margin-top: 20px;
+    }
+
+    .offer h3 {
+        font-size: 18px;
+        padding: 10px 0px;
+    }
+
+    .head-text h1 {
+        font-size: 30px;
+    }
+
+    .video-popup h3 {
+        bottom: 20%;
+    }
+
+    .foot-btn,
+    .foot-form {
+        width: 100% !important;
+    }
+
+    .footer-nav ul li {
+        padding: 0px 12px;
+    }
+
+    .foot-link {
+        min-height: 190px !important;
+    }
+
+    .shipping {
+        margin-top: 5px;
+    }
+
+    #shop-btn {
+        margin-top: 5px;
+    }
+
+}
+
+@media screen and (max-width:480px) {
+
+    .head-text p {
+        font-size: 14px;
+    }
+
+    .foot-link {
+        width: 100% !important;
+        min-height: 100% !important;
+    }
+
+    .footer-nav {
+        margin-top: 20px;
+    }
+
+    .shipping h3 {
+        font-size: 20px;
+    }
+
+    .opinion-box:after {
+        right: -150px;
+        z-index: -1;
+        top: 0;
+    }
+
+    .owl-dots {
+        bottom: -30px;
+    }
+
+    .opinion-box:before {
+        left: -150px !important;
+    }
+
+    .heading h2 {
+        font-size: 23px;
+    }
+
+    .prod-btn,
+    button#btn3 {
+        margin: 3px 3px;
+        font-size: 12px;
+    }
+
+    .video-popup h3 {
+        bottom: 16%;
+        font-size: 12px;
+    }
+
+    img.cap-dron {
+        display: none;
+    }
+
+    button.nav-btn {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .carousel {
+        margin-top: 20px;
+    }
+
+    .drone {
+        margin-top: 30px;
+    }
+
+    .footer-nav ul li {
+        padding: 0px 15px;
+    }
+}
